@@ -4,3 +4,4 @@ Flask-RESTful==0.3.7
 jwt==1.0.0
 requests==2.23.0
 PyJWT==1.6.1
+gunicorn==20.0.4
